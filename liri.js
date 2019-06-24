@@ -8,30 +8,55 @@ var fs = require("fs");
 var Spotify = require("node-spotify-api");
 var spotify = new Spotify(keys.spotify);
 var request = require("request");
-var liriReturn = process.argv[2];
-var movieName = process.argv[3];
-var twitter = require("twitter");
-var client = newTwitter(keys.twitter);
+var liriReturn = process.argv[3];
+var movieName = process.argv[2];
 
 
-
-
-
-
-
-
-
-
-
-Add the code required to import the `keys.js` file and store it in a variable.
-
-js
-
+// The switch-case will direct which function gets run.
+switch (liriReturn) {
+  case "concert-this":
+    concertThis();
+    break;
   
-* You should then be able to access your keys information like so
+  case "spotify-this-song":
+    spotifyThisSong();
+    break;
+  
+  case "movie-this":
+    movieThis();
+    break;
+  
+  case "do-what-it-says":
+    doWhatItSays();
+    break;
+  }
 
-js
-  var spotify = new Spotify(keys.spotify);
+
+// One - concertThis
+function concertThis () {
+  
+    // using the movieName variable from our list
+    var queryUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
+    request 
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   // Included the axios npm package
@@ -45,3 +70,6 @@ var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey
 
 // This line is just to help us debug against the actual URL.
     console.log(queryUrl);
+
+
+
