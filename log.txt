@@ -1,0 +1,238 @@
+
+Madonna concert information:
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Location: Brooklyn, NY
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Date: 09/15/2019
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Date: 09/17/2019
+Date: 09/12/2019
+Location: Brooklyn, NY
+Date: 09/19/2019
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Date: 09/21/2019
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Date: 09/22/2019
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Date: 09/24/2019
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Date: 09/25/2019
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Date: 09/26/2019
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Date: 09/28/2019
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Date: 10/01/2019
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Date: 10/02/2019
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Venue: BAM (Brooklyn Academy of Music)
+Date: 10/03/2019
+Location: Brooklyn, NY
+Date: 10/05/2019
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Date: 10/06/2019
+Venue: BAM (Brooklyn Academy of Music)
+Location: Brooklyn, NY
+Date: 10/07/2019
+Venue: The Chicago Theatre
+Location: Chicago, IL
+Date: 10/15/2019
+Venue: The Chicago Theatre
+Location: Chicago, IL
+Date: 10/16/2019
+Venue: The Chicago Theatre
+Location: Chicago, IL
+Date: 10/17/2019
+Venue: The Chicago Theatre
+Location: Chicago, IL
+Date: 10/21/2019
+Venue: The Chicago Theatre
+Location: Chicago, IL
+Date: 10/23/2019
+Venue: The Chicago Theatre
+Location: Chicago, IL
+Date: 10/24/2019
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV
+Date: 11/07/2019
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Date: 09/14/2019
+Date: 11/09/2019
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV
+Date: 11/10/2019
+Venue: The Wiltern
+Location: Los Angeles, CA
+Date: 11/12/2019
+Venue: The Wiltern
+Location: Los Angeles, CA
+Date: 11/13/2019
+Venue: The Wiltern
+Location: Los Angeles, CA
+Venue: The Wiltern
+Date: 11/14/2019
+Location: Los Angeles, CA
+Date: 11/16/2019
+Venue: The Wiltern
+Location: Los Angeles, CA
+Date: 11/17/2019
+Venue: The Wiltern
+Location: Los Angeles, CA
+Date: 11/19/2019
+Venue: The Wiltern
+Location: Los Angeles, CA
+Date: 11/20/2019
+Location: Los Angeles, CA
+Venue: The Wiltern
+Date: 11/21/2019
+Venue: The Wiltern
+Location: Los Angeles, CA
+Date: 11/23/2019
+Venue: The Wiltern
+Location: Los Angeles, CA
+Date: 11/24/2019
+Venue: The Wiltern
+Location: Los Angeles, CA
+Date: 11/25/2019
+Venue: Boch Center - Wang Theatre
+Location: Boston, MA
+Date: 11/30/2019
+Venue: Boch Center - Wang Theatre
+Location: Boston, MA
+Date: 12/01/2019
+Venue: Boch Center - Wang Theatre
+Location: Boston, MA
+Date: 12/02/2019
+Venue: The Met Philadelphia
+Location: Philadelphia, PA
+Date: 12/07/2019
+Venue: The Met Philadelphia
+Location: Philadelphia, PA
+Date: 12/08/2019
+Venue: The Met Philadelphia
+Location: Philadelphia, PA
+Date: 12/11/2019
+Venue: The Fillmore Miami Beach
+Location: Miami Beach, FL
+Date: 12/14/2019
+Venue: The Fillmore Miami Beach
+Location: Miami Beach, FL
+Date: 12/15/2019
+Venue: The Fillmore Miami Beach
+Location: Miami Beach, FL
+Date: 12/17/2019
+Venue: The Fillmore Miami Beach
+Location: Miami Beach, FL
+Date: 12/18/2019
+Venue: BAM (Brooklyn Academy of Music)
+Location: Miami Beach, FL
+Date: 12/19/2019
+Venue: Coliseu dos Recreios
+Location: Lisboa, Portugal
+Date: 01/16/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 01/26/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 01/27/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 01/29/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 01/30/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 02/01/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 02/02/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 02/04/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 02/05/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 02/06/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 02/08/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 02/09/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 02/11/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 02/12/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 02/13/2020
+Venue: London Palladium
+Location: London, United Kingdom
+Date: 02/15/2020
+Venue: Grand Rex
+Location: Paris, France
+Date: 02/18/2020
+Venue: Grand Rex
+Location: Paris, France
+Date: 02/19/2020
+Venue: Grand Rex
+Location: Paris, France
+Date: 02/20/2020
+Venue: Grand Rex
+Location: Paris, France
+Venue: BAM (Brooklyn Academy of Music)
+Venue: The Fillmore Miami Beach
+Location: Paris, France
+Date: 02/23/2020
+Venue: Grand Rex
+Location: Paris, France
+Date: 02/25/2020
+Venue: Grand Rex
+Location: Paris, France
+Date: 02/26/2020
+Venue: Grand Rex
+Date: 02/22/2020
+Date: 02/27/2020
+Venue: Grand Rex
+Location: Paris, France
+Venue: Grand Rex
+Date: 02/29/2020
+Location: Paris, France
+Date: 03/01/2020
+Venue: Grand Rex
+Location: Las Vegas, NV
+Date: 03/03/2020
+Location: Paris, France
+Venue: Grand Rex Paris
+Date: 03/04/2020
+Venue: Grand Rex Paris
+Location: Paris, France
+Location: Paris, France
+Title: The Birds
+Rotten Tomatoes Rating: 96%
+Language: English
+Plot: A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.
+Actors: Rod Taylor, Jessica Tandy, Suzanne Pleshette, Tippi Hedren
+IMDB Rating: 7.7
+Origin Country: USA
+Year: 1963
