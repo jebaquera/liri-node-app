@@ -1,13 +1,13 @@
-### LIRI BOT
+## LIRI BOT
 LIRI Bot homework project using node js and axios.
 
-### Overview of the App
+## Overview of the App
 
 In this assignment, we created LIRI. LIRI is 
 
 The problem we were faced was to create an app that functioned like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, the solution should use a _Language_ Interpretation and Recognition Interface (LIRI). 
 
-### Solution
+## Solution
 LIRI will be a command line node app that takes in user parameters and returns data from specific api's. 
 
 The solution was to use "backend" technologies. Node.js was used along with NPM (Node Package Manager) libraries. Since this app works via command line inputs, there is no front end component or html page to publish.
@@ -23,12 +23,12 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
   -- node-spotify-api v1.1.1,
   -- request v2.88.0
 
-### Using LIRI
+## Using LIRI
 
 --> add screenshot of all commands: concert-this, movie-this, spotify-this-song, do-what-it-says
 
-## What Each Command Should Do
-## concert-this
+### What Each Command Should Do
+# concert-this
 `node liri.js concert-this <artist/band name here>`
 
   * This will search the Bands in Town Artist Events API for an artist and render the following information about each event in the terminal and to the log.txt file:
@@ -36,7 +36,7 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
     * Venue location
     * Date of the Event
 
-## spotify-this-song
+# spotify-this-song
 `node liri.js spotify-this-song '<song name here>'`
 -- If no song is provided then the program will default to "The Sign" by Ace of Base.
 
@@ -46,7 +46,7 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
     * A preview link of the song from Spotify
     * The album that the song is from
 
-## movie-this
+# movie-this
 `node liri.js movie-this '<movie name here>'`
 
   * This will search the OMDB API for a movie name and render the following information about the movie in the terminal and to the log.txt file:
@@ -63,7 +63,7 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
     * If you haven't watched "Mr. Nobody," then you should: <http://www.imdb.com/title/tt0485947/>
     * It's on Netflix!
 
-## do-what-it-says
+# do-what-it-says
 `node liri.js do-what-it-says`
 
   * LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
