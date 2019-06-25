@@ -1,4 +1,4 @@
-## LIRI BOT
+# LIRI BOT
 LIRI Bot homework project using node js and axios.
 
 ## Overview of the App
@@ -27,29 +27,28 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
 
 --> add screenshot of all commands: concert-this, movie-this, spotify-this-song, do-what-it-says
 
-### What Each Command Should Do
-# concert-this
+### `concert-this`
 `node liri.js concert-this <artist/band name here>`
 
-  * This will search the Bands in Town Artist Events API for an artist and render the following information about each event in the terminal and to the log.txt file:
+  * This will search the Bands in Town Artist Events API for an artist and render the following information about each event in the `terminal` and to the `log.txt` file:
     * Name of the venue
     * Venue location
     * Date of the Event
 
-# spotify-this-song
+### `spotify-this-song`
 `node liri.js spotify-this-song '<song name here>'`
 -- If no song is provided then the program will default to "The Sign" by Ace of Base.
 
-  * This will search the Spotify API for a song name/title and render the following information about the song in the terminal and to the log.txt file:
+  * This will search the Spotify API for a song name/title and render the following information about the song in the `terminal` and to the `log.txt` file:
     * Artist(s)
     * The song's name
     * A preview link of the song from Spotify
     * The album that the song is from
 
-# movie-this
+### `movie-this`
 `node liri.js movie-this '<movie name here>'`
 
-  * This will search the OMDB API for a movie name and render the following information about the movie in the terminal and to the log.txt file:
+  * This will search the OMDB API for a movie name and render the following information about the movie in the `terminal` and to the `log.txt` file:
     * Title of the movie.
     * Year the movie came out.
     * IMDB Rating of the movie.
@@ -63,7 +62,7 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
     * If you haven't watched "Mr. Nobody," then you should: <http://www.imdb.com/title/tt0485947/>
     * It's on Netflix!
 
-# do-what-it-says
+### `do-what-it-says`
 `node liri.js do-what-it-says`
 
   * LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
