@@ -27,6 +27,7 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
 
 --> add screenshot of all commands: concert-this, movie-this, spotify-this-song, do-what-it-says
 
+
 ### `concert-this`
 `node liri.js concert-this <artist/band name here>`
 
@@ -34,6 +35,7 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
     * Name of the venue
     * Venue location
     * Date of the Event
+
 
 ### `spotify-this-song`
 `node liri.js spotify-this-song '<song name here>'`
@@ -45,8 +47,10 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
     * A preview link of the song from Spotify
     * The album that the song is from
 
+
 ### `movie-this`
 `node liri.js movie-this '<movie name here>'`
+-- If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
   * This will search the OMDB API for a movie name and render the following information about the movie in the `terminal` and to the `log.txt` file:
     * Title of the movie.
@@ -58,9 +62,6 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
     * Plot of the movie.
     * Actors in the movie.
 
-   * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
-    * If you haven't watched "Mr. Nobody," then you should: <http://www.imdb.com/title/tt0485947/>
-    * It's on Netflix!
 
 ### `do-what-it-says`
 `node liri.js do-what-it-says`
