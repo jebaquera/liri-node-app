@@ -132,7 +132,7 @@ var runAction = function(func, parm) {
     case "concert-this":
       concertThis(parm);
       break;
-  
+  git 
     case "spotify-this-song":
       spotifyThisSong(parm);
       break;
