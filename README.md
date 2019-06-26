@@ -26,7 +26,7 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
 
 ## Using LIRI
 
-<img src="./images/concert-this.png">
+<img src="./images/concert-this.png" />
 ### `concert-this`
 `node liri.js concert-this <artist/band name here>`
 
@@ -34,8 +34,8 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
     * Name of the venue
     * Venue location
     * Date of the Event
-
-<img src="./images/spotify-this-song.png">
+<br /><br />
+<img src="./images/spotify-this-song.png" />
 ### `spotify-this-song`
 `node liri.js spotify-this-song '<song name here>'`
 -- If no song is provided then the program will default to "The Sign" by Ace of Base.
@@ -45,8 +45,8 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
     * The song's name
     * The album that the song is from
     * A preview link of the song from Spotify
-
-<img src="./images/movie-this.png">
+<br /><br />
+<img src="./images/movie-this.png" />
 ### `movie-this`
 `node liri.js movie-this '<movie name here>'`
 -- If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
@@ -60,13 +60,13 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
     * Language of the movie.
     * Plot of the movie.
     * Actors in the movie.
-
-<img src="./images/do-what-it-says.png">
+<br /><br />
+<img src="./images/do-what-it-says.png" />
 ### `do-what-it-says`
 `node liri.js do-what-it-says`
 
   * LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
-
+<br /><br />
 <img src="./images/default-if-not-sure.png">
 ### User Message
 If the user enters something other than what is expected that the program does not understand, it will let the user that it didn't understand the parameters and asks them to try again. It will return, "I did not understand what you were trying to do, try again."
