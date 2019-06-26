@@ -27,6 +27,8 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
 ## Using LIRI
 
 <img src="./images/concert-this.png" />
+<hr>
+
 ### `concert-this`
 `node liri.js concert-this <artist/band name here>`
 
@@ -36,6 +38,8 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
     * Date of the Event
 <br /><br />
 <img src="./images/spotify-this-song.png" />
+<hr>
+
 ### `spotify-this-song`
 `node liri.js spotify-this-song '<song name here>'`
 -- If no song is provided then the program will default to "The Sign" by Ace of Base.
@@ -47,6 +51,8 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
     * A preview link of the song from Spotify
 <br /><br />
 <img src="./images/movie-this.png" />
+<hr>
+
 ### `movie-this`
 `node liri.js movie-this '<movie name here>'`
 -- If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
@@ -62,11 +68,15 @@ The solution was to use "backend" technologies. Node.js was used along with NPM 
     * Actors in the movie.
 <br /><br />
 <img src="./images/do-what-it-says.png" />
+<hr>
+
 ### `do-what-it-says`
 `node liri.js do-what-it-says`
 
   * LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 <br /><br />
 <img src="./images/default-if-not-sure.png">
+<hr>
+
 ### User Message
 If the user enters something other than what is expected that the program does not understand, it will let the user that it didn't understand the parameters and asks them to try again. It will return, "I did not understand what you were trying to do, try again."
